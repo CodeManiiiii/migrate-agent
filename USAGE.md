@@ -44,4 +44,4 @@ migrate-agent migrate
 migrate-agent rollback /path/to/manifest.json
 ```
 
-更多选项、项目路径映射和兼容性说明见 [README](README.md)。
+更多选项、项目路径映射和兼容性说明见 [详细使用说明](docs/guide.md)。
